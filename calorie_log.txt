@@ -1,0 +1,18 @@
+Session Log - 2025-10-10 22:19:59
+==============================
+Daily Calorie Report
+==============================
+Meal Name		Calories
+------------------------------
+breakfast		800
+lunch		600
+dinner		700
+snacks		300
+lunch		600.0
+milk		200.0
+dosa		500.0
+------------------------------
+Total Calories: 3700.0
+Average Calories: 528.57
+Daily Calorie Limit: 3000.0
+Limit Status: Exceeded
