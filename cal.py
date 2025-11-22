@@ -11,9 +11,9 @@ class calculator:
         return a/b 
 calc=calculator()
 print("addition:",calc.add(10,70))
-print("Subtract:",calc.subtract(465-254))
-print("multiplication:",calc.mul(58*694))
-print("division:", calc.div(985/63))
+print("subtraction:",calc.subtract(90,50))
+print("multiplication:",calc.multiply(5,6))
+
 
     
     
