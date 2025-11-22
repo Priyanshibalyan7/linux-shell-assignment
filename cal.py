@@ -12,7 +12,7 @@ class calculator:
 calc=calculator()
 print("addition:",calc.add(10,70))
 print("subtraction:",calc.subtract(90,50))
-print("multiplication:",calc.multiply(5,6))
+print("multiplication:",calc.multiply(5,6)) 
 
 
     
